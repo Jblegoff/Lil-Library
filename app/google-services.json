@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "714345594799",
+    "firebase_url": "https://lil-library.firebaseio.com",
+    "project_id": "lil-library",
+    "storage_bucket": "lil-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714345594799:android:92183a55667bd55f",
+        "android_client_info": {
+          "package_name": "com.lillibrary.jblg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714345594799-cjhk6ald4oo0s44tjqu9odds8ilkilfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lillibrary.jblg",
+            "certificate_hash": "504a07adc256a0b7c0aba677855a847800042876"
+          }
+        },
+        {
+          "client_id": "714345594799-57q6vis005iti3s5bl7so9nelst10mvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqwTmXP5xdy-tPh7yK9I4vicadbk0QW6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714345594799-57q6vis005iti3s5bl7so9nelst10mvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
