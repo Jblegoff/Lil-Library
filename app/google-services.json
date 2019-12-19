@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "714345594799-cjhk6ald4oo0s44tjqu9odds8ilkilfk.apps.googleusercontent.com",
+          "client_id": "714345594799-j0jk3onkrudkv2tmvk7cun2i9c1tfufl.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.lillibrary.jblg",
-            "certificate_hash": "504a07adc256a0b7c0aba677855a847800042876"
+            "certificate_hash": "bfb275c553dea9c649ef4b931e0eb011c9a98c33"
           }
         },
         {
