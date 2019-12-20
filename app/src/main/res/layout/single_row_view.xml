@@ -23,7 +23,7 @@
                 android:id="@+id/icon"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
-            <com.jblg.lillibrary.imageZoom.AlphaTextView
+            <com.jblg.lillibrary.controller.imageZoom.AlphaTextView
                 android:id="@+id/txt_name"
                 android:background="#C2C1C1"
                 android:layout_width="match_parent"

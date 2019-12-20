@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.jblg.lillibrary.activity.detail_comic"
+    tools:context="com.jblg.lillibrary.view.activity.detail_comic"
     >
 
     <androidx.recyclerview.widget.RecyclerView

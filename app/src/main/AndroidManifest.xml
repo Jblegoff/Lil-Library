@@ -14,7 +14,7 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
 
-        <activity android:name="com.jblg.lillibrary.activity.SplashScreen"
+        <activity android:name="com.jblg.lillibrary.view.activity.SplashScreen"
             android:theme="@style/SplashTheme"
             android:screenOrientation="portrait">
             <intent-filter>
@@ -24,14 +24,14 @@
             </intent-filter>
 
         </activity>
-        <activity android:name="com.jblg.lillibrary.activity.Read_Pager"
+        <activity android:name="com.jblg.lillibrary.view.activity.Read_Pager"
             android:screenOrientation="portrait"/>
         <activity
-            android:name="com.jblg.lillibrary.activity.detail_comic"
+            android:name="com.jblg.lillibrary.view.activity.detail_comic"
             android:theme="@style/AppTheme.NoActionBar"
             android:screenOrientation="portrait"/>
 
-        <activity android:name=".activity.MainActivity"
+        <activity android:name=".view.activity.MainActivity"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
             android:screenOrientation="portrait">
         <meta-data
