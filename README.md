@@ -28,7 +28,8 @@ Un écran pendant le démarage de l'application
 <img src="img_demo/Splash_screen.jpg" alt="splash" width="300">
 
 ### Home Screen
-Le menu d'acceuil de l'application, permet d'accéder à l'ensemble des 
+Le menu d'acceuil de l'application, permet d'accéder à l'ensemble des manga présent sur le site
+
 <img src="img_demo/home.jpg" alt="home" width="300">
 
 ### Details Screen
