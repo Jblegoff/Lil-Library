@@ -20,7 +20,7 @@ affiche les posters des manga disponible sur https://www.mangaeden.com et permet
 
 ### Splash Screen
 
-<img scr="img_demo/splashs_screen.png" alt="splashs screen">
+<img scr="img_demo/Splash_screen.jpg" alt="splashs screen">
 
 ### Home Screen
 
