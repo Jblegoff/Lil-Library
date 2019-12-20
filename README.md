@@ -18,6 +18,10 @@ Projet par Jean-Baptiste Le Goff 4AFSI2
 ## Fonctionnalité 
 affiche les posters des manga disponible sur https://www.mangaeden.com et permet d'avoir des details (synopsis,auteur,etc..) et de lire les chapitre présents sur le site en cliquant dessus
 
+### Splash Screen
+
+<img scr="img_demo/splashs_screen.png" alt="splashs screen">
+
 ### Home Screen
 
 <img src="img_demo/home.jpg" alt="home">
