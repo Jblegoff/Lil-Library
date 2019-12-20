@@ -33,7 +33,7 @@ Le menu d'acceuil de l'application, permet d'accéder à l'ensemble des manga pr
 <img src="img_demo/home.jpg" alt="home" width="300">
 
 ### Details Screen
-Deux écrans montrant les détails du manga ainsi que les chapitres disponibles. La lecure d'un chapitre et la presentation en onglet de la partie détails/chapitre disponible sont faites grâçe à des <i>Fragments</i> 
+Deux écrans montrant les détails du manga ainsi que les chapitres disponibles. La lecure d'un chapitre et la presentation en onglet de la partie détails/chapitre disponible sont faites grâce à des <i>Fragments</i> 
 
 <img src="img_demo/detail_1.jpg" atl="detail1" width="300"> <img src="img_demo/detail_2.jpg" alt="details2" width="300">
 
