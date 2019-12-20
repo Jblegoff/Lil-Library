@@ -33,10 +33,13 @@ Le menu d'acceuil de l'application, permet d'accéder à l'ensemble des manga pr
 <img src="img_demo/home.jpg" alt="home" width="300">
 
 ### Details Screen
+Deux écrans montrant les détails du manga ainsi que les chapitres disponibles
 
 <img src="img_demo/detail_1.jpg" atl="detail1" width="300"> <img src="img_demo/detail_2.jpg" alt="details2" width="300">
 
 ### Search Screen
+L'ecran de résultat lors q'une recherche (ici avec la recherche "captain")
+
 <img src="img_demo/search.jpg" alt="search1" width="300"> <img src="img_demo/App_search_1.gif" width="300" alt="search"> 
 
 Note:le site MangaEden.com recensant tout type de manga il peut être possible d'avoir des manga pouvant heurter la sensibilté
